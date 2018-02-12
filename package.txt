@@ -1,0 +1,5 @@
+NAME=libuv
+VERSION=1.19.1
+REVISION=1
+SRC=https://github.com/libuv/libuv/archive/v1.19.1/libuv-1.19.1.tar.gz
+SRCMD5=f69deb537239af334698101b4ea02d7b
